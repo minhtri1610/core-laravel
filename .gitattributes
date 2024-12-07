@@ -1,0 +1,9 @@
+# すべてのテキストファイルをLFに変換
+* text=auto
+
+# 特定のファイルをLFとして設定
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf

@@ -1,0 +1,8 @@
+{
+    "phpcs.autoConfigSearch": false,
+    "phpcs.standard": "settings/phpcs/CUSTOM/ruleset.xml",
+    "phpcs.ignorePatterns": [
+    ],
+    
+    "phpmd.rules": "settings/phpmd/ruleset.xml"
+}
